@@ -1,0 +1,37 @@
+_repo: Brother-Jacob_2171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Cross, Mary Ann
+    - Cross, Marian Evans
+    - Evans, Mary Anne
+    - Lewes, Marian Evans
+    - Lewes, M. E. (Marian Evans)
+    - Evans, Marian
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: Among the many fatalities attending the bloom of young desire, that of
+  blindly taking to the confectionery line has not, perhaps, been sufficiently considered.
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Confectioners -- Fiction'
+- !lcsh 'Men with mental disabilities -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Brother Jacob
+url: http://www.gutenberg.org/ebooks/2171
